@@ -1,4 +1,4 @@
-- 👋🏽 Hi, I’m Angelo Sarr
+- 👋🏽 Hi, I’m AngiFaas
 - 👀 I’m interested in science and engineering
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: /
